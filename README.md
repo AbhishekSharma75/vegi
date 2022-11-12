@@ -1,2 +1,2 @@
-# online-food-delivery-app
-Software Engineering Lab Project
+#vegi
+Vegi is a online food delivery app
